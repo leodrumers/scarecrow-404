@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://leodrumers.github.io/scarecrow-404/">
       Demo
     </a>
     <span> | </span>
